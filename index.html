@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Simple Weather Forecast</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="weather-container">
+    <h1>🌦️ Weather App</h1>
+
+    <div class="search-box">
+      <input type="text" id="cityInput" placeholder="Enter city..." />
+      <button onclick="getWeather()">Search</button>
+    </div>
+
+    <div id="weatherResult" class="weather-result"></div>
+
+    <h3>5-Day Forecast</h3>
+    <div id="forecast" class="forecast-grid"></div>
+
+    <h3>Search History</h3>
+    <div id="historyList" class="history-list"></div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>

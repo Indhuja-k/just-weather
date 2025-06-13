@@ -1,2 +1,29 @@
-# just-weather
-A simple weather app that fetches real-time weather data for any city using the OpenWeatherMap API. Built with clean UI and responsive design using HTML, CSS, and JavaScript.
+# 🌦️ Simple Weather Forecast App — `just-weather`
+
+A clean, responsive web application that displays the **current weather** and **5-day forecast** for any city. Built using **HTML**, **CSS**, and **JavaScript**, with live data from the **OpenWeatherMap API**.
+
+---
+
+## ✅ Features
+
+- 🔍 City weather search
+- 📆 5-Day forecast (12:00 PM each day)
+- 💾 Search history (up to 5 recent cities)
+- ⚡ Clickable history for quick reload
+- 📱 Responsive & clean UI
+- 🧼 Auto-clears old history after 5 entries
+
+---
+
+## 📸 Screenshot
+
+![Screenshot](screenshot.png) <!-- Replace with your actual screenshot if needed -->
+
+---
+
+## 🔧 Tech Stack
+
+- HTML5
+- CSS3
+- JavaScript 
+- OpenWeatherMap API

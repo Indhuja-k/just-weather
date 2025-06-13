@@ -17,7 +17,7 @@ A clean, responsive web application that displays the **current weather** and **
 
 ## 📸 Screenshot
 
-![Screenshot](screenshot.png) <!-- Replace with your actual screenshot if needed -->
+![Screenshot](weather.front.jpg) <!-- Replace with your actual screenshot if needed -->
 
 ---
 
